@@ -1,3 +1,15 @@
+# v1.0.1 (Sun Jan 19 2025)
+
+#### ⚠️ Pushed to `main`
+
+- add all contributors ([@lucascurti](https://github.com/lucascurti))
+
+#### Authors: 1
+
+- Lucas Curti ([@lucascurti](https://github.com/lucascurti))
+
+---
+
 # v1.0.0 (Sun Jan 19 2025)
 
 :tada: This release contains work from a new contributor! :tada:
