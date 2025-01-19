@@ -1,3 +1,15 @@
+# v1.0.3 (Sun Jan 19 2025)
+
+#### ⚠️ Pushed to `main`
+
+- update readme ([@lucascurti](https://github.com/lucascurti))
+
+#### Authors: 1
+
+- Lucas Curti ([@lucascurti](https://github.com/lucascurti))
+
+---
+
 # v1.0.2 (Sun Jan 19 2025)
 
 #### ⚠️ Pushed to `main`
