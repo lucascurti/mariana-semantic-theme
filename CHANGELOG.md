@@ -1,3 +1,15 @@
+# v1.0.8 (Sun Jan 19 2025)
+
+#### ⚠️ Pushed to `main`
+
+- re-enable vscode (lucas@bobsled.co)
+
+#### Authors: 1
+
+- Lucas Curti (lucas@bobsled.co)
+
+---
+
 # v1.0.5 (Sun Jan 19 2025)
 
 #### ⚠️ Pushed to `main`
