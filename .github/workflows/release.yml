@@ -44,5 +44,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
+          sudo apt-get install libsecret-1-dev
           pnpm install
           pnpm run release
