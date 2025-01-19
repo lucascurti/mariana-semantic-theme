@@ -1,3 +1,16 @@
+# v1.7.1 (Sun Jan 19 2025)
+
+#### ⚠️ Pushed to `main`
+
+- add images ([@lucascurti](https://github.com/lucascurti))
+- add screenshots ([@lucascurti](https://github.com/lucascurti))
+
+#### Authors: 1
+
+- Lucas Curti ([@lucascurti](https://github.com/lucascurti))
+
+---
+
 # v1.1.0 (Sun Jan 19 2025)
 
 #### 🚀 Enhancement
