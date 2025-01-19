@@ -10,6 +10,32 @@
 
 #### ⚠️ Pushed to `main`
 
+- add icon ([@lucascurti](https://github.com/lucascurti))
+- bump ([@lucascurti](https://github.com/lucascurti))
+- install gnome-keyring ([@lucascurti](https://github.com/lucascurti))
+- install libsecret ([@lucascurti](https://github.com/lucascurti))
+- remove git-tag ([@lucascurti](https://github.com/lucascurti))
+- remove comment ([@lucascurti](https://github.com/lucascurti))
+- re-enable all ([@lucascurti](https://github.com/lucascurti))
+
+#### Authors: 1
+
+- Lucas Curti ([@lucascurti](https://github.com/lucascurti))
+
+---
+
+# v1.1.0 (Sun Jan 19 2025)
+
+#### 🚀 Enhancement
+
+- minor [#5](https://github.com/lucascurti/mariana-semantic-theme/pull/5) ([@lucascurti](https://github.com/lucascurti))
+
+#### 🐛 Bug Fix
+
+- version 1.1.0 [#4](https://github.com/lucascurti/mariana-semantic-theme/pull/4) ([@lucascurti](https://github.com/lucascurti))
+
+#### ⚠️ Pushed to `main`
+
 - bump ([@lucascurti](https://github.com/lucascurti))
 - install gnome-keyring ([@lucascurti](https://github.com/lucascurti))
 - install libsecret ([@lucascurti](https://github.com/lucascurti))
