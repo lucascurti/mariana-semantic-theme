@@ -22,17 +22,6 @@
   },
   "repository": "lucascurti/mariana-semantic-theme",
   "author": "Lucas Curti <lucas.curti@gmail.com>",
-  "auto": {
-    "plugins": [
-      "git-tag",
-      "all-contributors",
-      "first-time-contributor",
-      "released",
-      [
-        "pr-body-labels"
-      ]
-    ]
-  },
   "scripts": {
     "release": "auto shipit"
   },
