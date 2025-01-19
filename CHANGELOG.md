@@ -2,6 +2,19 @@
 
 #### ⚠️ Pushed to `main`
 
+- update run command ([@lucascurti](https://github.com/lucascurti))
+- add vscode ([@lucascurti](https://github.com/lucascurti))
+
+#### Authors: 1
+
+- Lucas Curti ([@lucascurti](https://github.com/lucascurti))
+
+---
+
+# v1.0.5 (Sun Jan 19 2025)
+
+#### ⚠️ Pushed to `main`
+
 - add vscode ([@lucascurti](https://github.com/lucascurti))
 
 #### Authors: 1
