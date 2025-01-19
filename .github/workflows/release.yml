@@ -45,5 +45,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           sudo apt-get install libsecret-1-dev
+          sudo apt-get install gnome-keyring
           pnpm install
           pnpm run release
