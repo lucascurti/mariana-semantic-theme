@@ -1,0 +1,43 @@
+{
+  "name": "mariana-semantic",
+  "displayName": "Mariana Semantic",
+  "description": "VSCode theme based on Mariana Sublime Text",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0",
+    "node": ">=20.18.1 <21.0.0"
+  },
+  "packageManager": "pnpm@9.14.4",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mariana Semantic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mariana-semantic-color-theme.json"
+      }
+    ]
+  },
+  "repository": "lucascurti/mariana-semantic-theme",
+  "author": "Lucas Curti <lucas.curti@gmail.com>",
+  "auto": {
+    "plugins": [
+      "all-contributors",
+      "first-time-contributor",
+      "released",
+      "pr-body-labels"
+    ]
+  },
+  "scripts": {
+    "release": "auto shipit"
+  },
+  "devDependencies": {
+    "@auto-it/all-contributors": "11.3.0",
+    "@auto-it/first-time-contributor": "11.3.0",
+    "@auto-it/pr-body-labels": "11.3.0",
+    "@auto-it/released": "11.3.0",
+    "auto": "11.3.0"
+  }
+}
