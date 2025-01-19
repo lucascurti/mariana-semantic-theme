@@ -3,7 +3,7 @@
   "displayName": "Mariana Semantic",
   "description": "VSCode theme based on Mariana Sublime Text",
   "publisher": "lucas-curti",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "engines": {
     "vscode": "^1.96.0",
     "node": ">=20.18.1 <21.0.0"
