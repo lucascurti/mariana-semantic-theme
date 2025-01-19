@@ -2,6 +2,20 @@
 
 #### ⚠️ Pushed to `main`
 
+- only vscode (lucas@bobsled.co)
+- 8 (lucas@bobsled.co)
+- re-enable vscode (lucas@bobsled.co)
+
+#### Authors: 1
+
+- Lucas Curti (lucas@bobsled.co)
+
+---
+
+# v1.0.8 (Sun Jan 19 2025)
+
+#### ⚠️ Pushed to `main`
+
 - 8 (lucas@bobsled.co)
 - re-enable vscode (lucas@bobsled.co)
 
