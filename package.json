@@ -2,6 +2,7 @@
   "name": "mariana-semantic",
   "displayName": "Mariana Semantic",
   "description": "VSCode theme based on Mariana Sublime Text",
+  "publisher": "lucas-curti",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0",
@@ -31,6 +32,7 @@
     "@auto-it/git-tag": "11.3.0",
     "@auto-it/pr-body-labels": "11.3.0",
     "@auto-it/released": "11.3.0",
+    "@auto-it/vscode": "11.3.0",
     "auto": "11.3.0"
   }
 }
