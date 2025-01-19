@@ -6,7 +6,6 @@
     "released",
     [
       "pr-body-labels"
-    ],
-    "vscode"
+    ]
   ]
 }
