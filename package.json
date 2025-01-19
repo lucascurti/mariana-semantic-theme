@@ -24,10 +24,13 @@
   "author": "Lucas Curti <lucas.curti@gmail.com>",
   "auto": {
     "plugins": [
+      "git-tag",
       "all-contributors",
       "first-time-contributor",
       "released",
-      "pr-body-labels"
+      [
+        "pr-body-labels"
+      ]
     ]
   },
   "scripts": {
@@ -36,6 +39,7 @@
   "devDependencies": {
     "@auto-it/all-contributors": "11.3.0",
     "@auto-it/first-time-contributor": "11.3.0",
+    "@auto-it/git-tag": "11.3.0",
     "@auto-it/pr-body-labels": "11.3.0",
     "@auto-it/released": "11.3.0",
     "auto": "11.3.0"

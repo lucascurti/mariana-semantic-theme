@@ -14,6 +14,9 @@ importers:
       '@auto-it/first-time-contributor':
         specifier: 11.3.0
         version: 11.3.0(@types/node@22.10.7)(typescript@5.7.3)
+      '@auto-it/git-tag':
+        specifier: 11.3.0
+        version: 11.3.0(@types/node@22.10.7)(typescript@5.7.3)
       '@auto-it/pr-body-labels':
         specifier: 11.3.0
         version: 11.3.0(@types/node@22.10.7)(typescript@5.7.3)
@@ -44,6 +47,9 @@ packages:
 
   '@auto-it/first-time-contributor@11.3.0':
     resolution: {integrity: sha512-PnpgJeJH3SriwZ0W4rpWjVCU6tJVd/d0v2CQQpK4wtDMPN+Dxie44+INBr4jp9lg6nJ3LEUhygoEfq/FhKlLXw==}
+
+  '@auto-it/git-tag@11.3.0':
+    resolution: {integrity: sha512-5V+evSVKRmYMvh7dwPQvo+ERA8cleDarl+9kEFlRmSk0ErDBAMQ30WL7jLTrEVH1BtgaoHl4qgKTYnCcp80BRQ==}
 
   '@auto-it/npm@11.3.0':
     resolution: {integrity: sha512-II7u1trzi2hSd1Vww635DmvHqHlgtVPqr4VPJlq1M7zqPwi9+FcaMW5J/DSqlwJgWRWviWqepIhasUQhj69p0A==}
@@ -1501,6 +1507,19 @@ snapshots:
       endent: 2.1.0
       tslib: 2.1.0
       url-join: 4.0.1
+    transitivePeerDependencies:
+      - '@swc/core'
+      - '@swc/wasm'
+      - '@types/node'
+      - encoding
+      - supports-color
+      - typescript
+
+  '@auto-it/git-tag@11.3.0(@types/node@22.10.7)(typescript@5.7.3)':
+    dependencies:
+      '@auto-it/core': 11.3.0(@types/node@22.10.7)(typescript@5.7.3)
+      semver: 7.6.3
+      tslib: 2.1.0
     transitivePeerDependencies:
       - '@swc/core'
       - '@swc/wasm'
