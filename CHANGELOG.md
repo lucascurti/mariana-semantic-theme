@@ -1,3 +1,15 @@
+# v1.0.4 (Sun Jan 19 2025)
+
+#### 🐛 Bug Fix
+
+- add vscode [#3](https://github.com/lucascurti/mariana-semantic-theme/pull/3) ([@lucascurti](https://github.com/lucascurti))
+
+#### Authors: 1
+
+- Lucas Curti ([@lucascurti](https://github.com/lucascurti))
+
+---
+
 # v1.0.3 (Sun Jan 19 2025)
 
 #### ⚠️ Pushed to `main`
