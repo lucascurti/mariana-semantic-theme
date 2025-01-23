@@ -1,3 +1,15 @@
+# v1.8.0 (Thu Jan 23 2025)
+
+#### 🚀 Enhancement
+
+- storage and keyword [#6](https://github.com/lucascurti/mariana-semantic-theme/pull/6) ([@lucascurti](https://github.com/lucascurti))
+
+#### Authors: 1
+
+- Lucas Curti ([@lucascurti](https://github.com/lucascurti))
+
+---
+
 # v1.7.1 (Sun Jan 19 2025)
 
 #### ⚠️ Pushed to `main`
