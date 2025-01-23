@@ -949,6 +949,21 @@
       "settings": {
         "foreground": "#fac761"
       }
+    },
+    {
+      "name": "Storage - const, let, function, type, etc",
+      "scope": "storage",
+      "settings": {
+        "foreground": "#FFB3B3"
+      }
+    },
+    {
+      "name": "keyword - await, return, etc",
+      "scope": "keyword.control.flow",
+      "settings": {
+        "foreground": "#FF7F7F",
+        "fontStyle": "bold"
+      }
     }
   ]
 }
