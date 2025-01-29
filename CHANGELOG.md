@@ -1,3 +1,15 @@
+# v1.8.1 (Wed Jan 29 2025)
+
+#### 🐛 Bug Fix
+
+- change vscode min version [#7](https://github.com/lucascurti/mariana-semantic-theme/pull/7) ([@lucascurti](https://github.com/lucascurti))
+
+#### Authors: 1
+
+- Lucas Curti ([@lucascurti](https://github.com/lucascurti))
+
+---
+
 # v1.8.0 (Thu Jan 23 2025)
 
 #### 🚀 Enhancement
