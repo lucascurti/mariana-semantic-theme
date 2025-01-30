@@ -1,3 +1,15 @@
+# v1.8.2 (Thu Jan 30 2025)
+
+#### ⚠️ Pushed to `main`
+
+- change description ([@lucascurti](https://github.com/lucascurti))
+
+#### Authors: 1
+
+- Lucas Curti ([@lucascurti](https://github.com/lucascurti))
+
+---
+
 # v1.8.1 (Wed Jan 29 2025)
 
 #### 🐛 Bug Fix
