@@ -1,7 +1,7 @@
 {
   "name": "mariana-semantic",
   "displayName": "Mariana Semantic",
-  "description": "VSCode theme based on Mariana Sublime Text",
+  "description": "VSCode theme inspired on Mariana Sublime Text",
   "publisher": "lucas-curti",
   "version": "1.8.1",
   "engines": {
