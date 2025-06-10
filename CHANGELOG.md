@@ -1,3 +1,15 @@
+# v1.8.3 (Tue Jun 10 2025)
+
+#### ⚠️ Pushed to `main`
+
+- add gutter and ruler colors ([@lucascurti](https://github.com/lucascurti))
+
+#### Authors: 1
+
+- Lucas Curti ([@lucascurti](https://github.com/lucascurti))
+
+---
+
 # v1.8.2 (Thu Jan 30 2025)
 
 #### ⚠️ Pushed to `main`
