@@ -1,3 +1,15 @@
+# v1.8.4 (Wed Jul 09 2025)
+
+#### ⚠️ Pushed to `main`
+
+- fix gutter ([@lucascurti](https://github.com/lucascurti))
+
+#### Authors: 1
+
+- Lucas Curti ([@lucascurti](https://github.com/lucascurti))
+
+---
+
 # v1.8.3 (Tue Jun 10 2025)
 
 #### ⚠️ Pushed to `main`
