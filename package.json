@@ -19,13 +19,22 @@
         "label": "Mariana Semantic",
         "uiTheme": "vs-dark",
         "path": "./themes/mariana-semantic-color-theme.json"
+      },
+      {
+        "label": "Mariana Semantic Light",
+        "uiTheme": "vs",
+        "path": "./themes/mariana-semantic-light-color-theme.json"
       }
     ]
   },
   "repository": "lucascurti/mariana-semantic-theme",
   "author": "Lucas Curti <lucas.curti@gmail.com>",
   "scripts": {
-    "release": "auto shipit"
+    "release": "auto shipit",
+    "package": "vsce package",
+    "publish:ovsx": "dotenv -- ovsx publish",
+    "publish:vscode": "dotenv -- vsce publish",
+    "test:ovsx": "echo 'Add OVSX_PAT=your_token to .env file'"
   },
   "devDependencies": {
     "@auto-it/all-contributors": "11.3.0",
@@ -34,6 +43,9 @@
     "@auto-it/pr-body-labels": "11.3.0",
     "@auto-it/released": "11.3.0",
     "@auto-it/vscode": "11.3.0",
-    "auto": "11.3.0"
+    "@vscode/vsce": "^3.2.1",
+    "auto": "11.3.0",
+    "dotenv-cli": "^7.4.2",
+    "ovsx": "^0.9.5"
   }
 }

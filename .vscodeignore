@@ -1,4 +1,9 @@
 .vscode/**
 .vscode-test/**
 .gitignore
+.env
+.env.example
 vsc-extension-quickstart.md
+node_modules/**
+*.log
+pnpm-lock.yaml
