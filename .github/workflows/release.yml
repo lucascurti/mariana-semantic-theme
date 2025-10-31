@@ -49,3 +49,14 @@ jobs:
           sudo apt-get install gnome-keyring
           pnpm install
           pnpm run release
+
+      - name: Publish to Open VSX Registry
+        env:
+          OVSX_PAT: ${{ secrets.OVSX_PAT }}
+        run: |
+          if [ -n "$OVSX_PAT" ]; then
+            echo "Publishing to Open VSX Registry..."
+            pnpm run publish:ovsx
+          else
+            echo "OVSX_PAT not set, skipping Open VSX Registry publish"
+          fi
